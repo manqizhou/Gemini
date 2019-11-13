@@ -2,7 +2,7 @@
 
 Please contact (mqzhou@umich.edu or hyangl@umich.edu or gyuanfan@umich.edu) if you have any questions or suggestions.
 
-![Figure1](./figure.png?raw=true "Title")
+![Figure1](./figure1.png?raw=true "Title")
 
 ---
 
@@ -20,9 +20,9 @@ git clone https://github.com/GuanLab/Gemini.git
 * [xgboost](https://github.com/dmlc/xgboost/blob/master/demo/binary_classification/README.md)
 
 ## Dataset
-[Genomic coordinates](https://www.synapse.org/#!Synapse:syn6184308)
-[DNase-seq](https://www.encodeproject.org/experiments/ENCSR000EMU/)
-[DNA sequence and motif](http://hocomoco11.autosome.ru/downloads_v11)
-[Gencode](https://www.gencodegenes.org/human/release_19.html)
+* [Genomic coordinates](https://www.synapse.org/#!Synapse:syn6184308)
+* [DNase-seq](https://www.encodeproject.org/experiments/ENCSR000EMU/)
+* [DNA sequence and motif](http://hocomoco11.autosome.ru/downloads_v11)
+* [Gencode](https://www.gencodegenes.org/human/release_19.html)
 
 
